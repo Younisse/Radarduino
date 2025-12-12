@@ -15,7 +15,7 @@ Semaine 2
 
 Semaine 3
 
--Changement de capteur : remplacement du VL53L0X par le Lidar-Lite v3HP.
+- Changement de capteur : remplacement du VL53L0X par le Lidar-Lite v3HP.
 - Montage et programmation du Lidar-Lite v3HP.
 - Montage de l’écran LED 2.8" TFT LCD.
 

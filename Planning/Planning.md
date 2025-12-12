@@ -1,38 +1,48 @@
-Planning :
+Planning du projet Radarduino
 
-1er semaine :
-plusieur idée de projet : jeu d'échec automatique, chatière automatique et radar automatique 
-choix du projet : radar automatique (radarduino)
-montage du servomoteur et commencement du code servomoteur 
-montage de l'écran 2.8" SPI TFT v1.1 240 * 320
+Semaine 1
 
-2e semaine :
-finition du code montage et du codage du servomoteur et de l'écran 2.8" SPI TFT v1.1 240 * 320
-montage et codage du capteur de distance vl53l0x 
+- Recherche et proposition de plusieurs idées de projet :
+  jeu d’échecs automatique, chatière automatique, radar automatique.
+- Choix final du projet : Radar automatique (Radarduino).
+- Montage du servomoteur et début du développement du code associé.
+- Montage de l’écran 2.8" SPI TFT v1.1 (240×320).
 
-3e semaine :
-changement de capteur : Lidar-Lite v3hp
-Montage et codage du capteur Lidar-Lite v3hp
-Montage de l'écran LED 2.8 TFT LCD
+Semaine 2
 
-4e semaine : 
-Commencement de la modélisation du Radarduino
-Oral de projet
-Changement de capteur : capteur cqrobot microwave sensor
+- Finalisation du montage et du code du servomoteur et de l’écran 2.8" SPI TFT v1.1.
+- Montage et programmation du capteur de distance VL53L0X.
 
-5e semaine : 
-Continuation de la modélisation du Radarduino
-Changement de capteur : capteur TF mini S
+Semaine 3
 
-6e semaine :
-Finition et impression de la modélisation du Radarduino
-montage et coadage d'un capteur fonctionnel
-codage de l'écran LED 2.8 TFT LCD
+-Changement de capteur : remplacement du VL53L0X par le Lidar-Lite v3HP.
+- Montage et programmation du Lidar-Lite v3HP.
+- Montage de l’écran LED 2.8" TFT LCD.
 
-7e semaine :
-finition de tout les montages et du codage
-Reessaye le fonctionnement de tout pièces électronique
-Assemblage de toute les pièces avec l'impression 3D du Radarduino
+Semaine 4
 
-8e semaine :
-Finition du projet
+- Début de la modélisation 3D du Radarduino.
+- Oral intermédiaire de présentation du projet.
+- Nouveau changement de capteur : test du CQRobot Microwave Sensor.
+
+Semaine 5
+
+- Poursuite de la modélisation 3D du Radarduino.
+- Changement du capteur : test du TF Mini S.
+
+Semaine 6
+
+- Finalisation et impression 3D de la modélisation du Radarduino.
+- Montage et programmation d’un capteur fonctionnel retenu après essais.
+- Programmation de l’écran LED 2.8" TFT LCD.
+
+Semaine 7
+
+- Finalisation de tous les montages et du codage.
+- Tests complets de fonctionnement de l’ensemble des composants électroniques.
+- Assemblage final : intégration des composants dans la structure imprimée en 3D.
+
+Semaine 8
+
+- Finalisation du projet Radarduino.
+- Vérifications finales et préparation de la présentation.

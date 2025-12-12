@@ -24,9 +24,9 @@ Si l’objet dépasse ce seuil, le Radarduino signale le dépassement et affiche
   - Plusieurs capteurs ont été testés (VL53L0X, Lidar Lite v3HP, CQRobot Microwave, TF Mini S) afin de trouver celui offrant la meilleure précision.
 
   3.2. Servomoteur
-  - Permet au capteur de tourner sur lui-même pour couvrir un angle défini.
+     - Permet au capteur de tourner sur lui-même pour couvrir un angle défini.
 
-  - Assure une balayage de la zone à analyser.
+     - Assure une balayage de la zone à analyser.
 
   3.3. Écran 2.8" TFT LCD
     - Affiche la vitesse mesurée et l’état du radar (détection, dépassement de vitesse, valeurs en temps réel).
@@ -45,10 +45,11 @@ Si l’objet dépasse ce seuil, le Radarduino signale le dépassement et affiche
     - Obtenir un montage stable, cohérent et résistant.
 
   4.2. Objectifs organisationnels
-    - Respecter les délais imposés durant les 8 semaines de projet.
-    - Répartir les tâches équitablement entre les membres du binôme.
-    - Travailler de manière autonome tout en assurant une bonne coordination de groupe.
-    - Adapter le projet face aux contraintes techniques (changements de capteurs, compatibilités, etc.).
+  
+      - Respecter les délais imposés durant les 8 semaines de projet.
+      - Répartir les tâches équitablement entre les membres du binôme.
+      - Travailler de manière autonome tout en assurant une bonne coordination de groupe.
+      - Adapter le projet face aux contraintes techniques (changements de capteurs, compatibilités, etc.).
 
 5. Contraintes
 

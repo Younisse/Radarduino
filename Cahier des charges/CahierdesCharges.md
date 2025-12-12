@@ -18,21 +18,19 @@ Si l’objet dépasse ce seuil, le Radarduino signale le dépassement et affiche
 
 3. Composants nécessaires
 
-   3.1. Capteur de distance
+3.1. Capteur de distance
   - Sert à mesurer la distance entre le radar et l’objet détecté.
-
   - Plusieurs capteurs ont été testés (VL53L0X, Lidar Lite v3HP, CQRobot Microwave, TF Mini S) afin de trouver celui offrant la meilleure précision.
 
-  3.2. Servomoteur
-    - Permet au capteur de tourner sur lui-même pour couvrir un angle défini.
+3.2. Servomoteur
+  - Permet au capteur de tourner sur lui-même pour couvrir un angle défini.
+  - Assure une balayage de la zone à analyser.
 
-    - Assure une balayage de la zone à analyser.
+3.3. Écran 2.8" TFT LCD
+  - Affiche la vitesse mesurée et l’état du radar (détection, dépassement de vitesse, valeurs en temps réel).
 
-  3.3. Écran 2.8" TFT LCD
-    - Affiche la vitesse mesurée et l’état du radar (détection, dépassement de vitesse, valeurs en temps réel).
-
-  3.4. Carte Arduino
-    - Cœur du système : reçoit les données du capteur, effectue les calculs et pilote l’écran et le servomoteur.
+3.4. Carte Arduino
+  - Cœur du système : reçoit les données du capteur, effectue les calculs et pilote l’écran et le servomoteur.
 
 4. Objectifs du projet
    4.1. Objectifs techniques
@@ -45,7 +43,6 @@ Si l’objet dépasse ce seuil, le Radarduino signale le dépassement et affiche
     - Obtenir un montage stable, cohérent et résistant.
 
   4.2. Objectifs organisationnels
-  
     - Respecter les délais imposés durant les 8 semaines de projet.
     - Répartir les tâches équitablement entre les membres du binôme.
     - Travailler de manière autonome tout en assurant une bonne coordination de groupe.

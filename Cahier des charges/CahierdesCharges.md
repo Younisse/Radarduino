@@ -43,10 +43,10 @@ Si l’objet dépasse ce seuil, le Radarduino signale le dépassement et affiche
     - Obtenir un montage stable, cohérent et résistant.
 
   4.2. Objectifs organisationnels
-    - Respecter les délais imposés durant les 8 semaines de projet.
-    - Répartir les tâches équitablement entre les membres du binôme.
-    - Travailler de manière autonome tout en assurant une bonne coordination de groupe.
-    - Adapter le projet face aux contraintes techniques (changements de capteurs, compatibilités, etc.).
+   - Respecter les délais imposés durant les 8 semaines de projet.
+   - Répartir les tâches équitablement entre les membres du binôme.
+   - Travailler de manière autonome tout en assurant une bonne coordination de groupe.
+   - Adapter le projet face aux contraintes techniques (changements de capteurs, compatibilités, etc.).
 
 5. Contraintes
 
